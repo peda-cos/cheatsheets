@@ -1,4 +1,4 @@
-# Cheatsheet de Comandos que eu uso no meu dia a dia
+![image](https://github.com/user-attachments/assets/fb2c9b4a-9ebb-4436-881c-cee8d28d1ff7)# Cheatsheet de Comandos que eu uso no meu dia a dia
 
 > Este README contém tabelas com comandos essenciais para mim, útil para referência rápida.
 
@@ -41,7 +41,7 @@
 | Redirecionamento        | >                                 | Redireciona a saída para um arquivo (sobrescreve).                     |
 | Redirecionamento        | >>                                | Redireciona a saída para um arquivo (acrescenta).                      |
 | Redirecionamento        | <                                 | Usa um arquivo como entrada para um comando.                           |
-| Redirecionamento        | |                                 | Redireciona a saída de um comando para a entrada de outro.             |
+| Redirecionamento        | ```|```                                 | Redireciona a saída de um comando para a entrada de outro.             |
 | Pesquisa                | grep [padrão] [arquivo]           | Pesquisa por um padrão dentro de um arquivo.                           |
 | Pesquisa                | grep -r [padrão] [diretório]      | Pesquisa recursivamente.                                               |
 | Pesquisa                | grep -i [padrão] [arquivo]        | Pesquisa ignorando diferenças de maiúsculas/minúsculas.                |
