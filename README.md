@@ -41,7 +41,7 @@
 | Redirecionamento        | >                                 | Redireciona a saída para um arquivo (sobrescreve).                     |
 | Redirecionamento        | >>                                | Redireciona a saída para um arquivo (acrescenta).                      |
 | Redirecionamento        | <                                 | Usa um arquivo como entrada para um comando.                           |
-| Redirecionamento        | ```|```                                 | Redireciona a saída de um comando para a entrada de outro.             |
+| Redirecionamento        | \|                                | Redireciona a saída de um comando para a entrada de outro.             |
 | Pesquisa                | grep [padrão] [arquivo]           | Pesquisa por um padrão dentro de um arquivo.                           |
 | Pesquisa                | grep -r [padrão] [diretório]      | Pesquisa recursivamente.                                               |
 | Pesquisa                | grep -i [padrão] [arquivo]        | Pesquisa ignorando diferenças de maiúsculas/minúsculas.                |
