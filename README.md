@@ -21,6 +21,7 @@
 | Comandos Básicos        | mkdir [nome]                      | Cria um novo diretório.                                                |
 | Comandos Básicos        | rmdir [nome]                      | Remove um diretório vazio.                                             |
 | Comandos Básicos        | rm [arquivo]                      | Remove um arquivo.                                                     |
+| Comandos Básicos        | !!                                | Repete o último comando executado.                                     |
 | Manipulação de Arquivos | cp [origem] [destino]             | Copia arquivos ou diretórios.                                          |
 | Manipulação de Arquivos | cp -r [origem] [destino]          | Copia diretórios recursivamente.                                       |
 | Manipulação de Arquivos | mv [origem] [destino]             | Move ou renomeia arquivos ou diretórios.                               |
