@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fb2c9b4a-9ebb-4436-881c-cee8d28d1ff7)# Cheatsheet de Comandos que eu uso no meu dia a dia
+# Cheatsheet de Comandos que eu uso no meu dia a dia
 
 > Este README contém tabelas com comandos essenciais para mim, útil para referência rápida.
 
