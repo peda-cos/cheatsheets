@@ -94,6 +94,8 @@
 | Stash                   | git stash pop                            | Aplica mudanças do stash.                               |
 | Stash                   | git stash list                           | Lista todas as entradas no stash.                       |
 
+## Cheatsheet do Vim
+
 | **Modo**          | **Comando**             | **Descrição**                                                        |
 |-------------------|-------------------------|----------------------------------------------------------------------|
 | **Navegação**     | `h`, `j`, `k`, `l`      | Movem o cursor para a esquerda, baixo, cima e direita, respectivamente. |
