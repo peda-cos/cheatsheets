@@ -6,6 +6,7 @@
 
 - [Cheatsheet de Bash](#cheatsheet-de-bash)
 - [Cheatsheet de Git](#cheatsheet-de-git)
+- [Cheatsheet do Vim](#cheatsheet-do-vim)
 
 ## Cheatsheet de Bash
 
