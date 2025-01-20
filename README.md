@@ -7,6 +7,7 @@
 - [Cheatsheet de Bash](#cheatsheet-de-bash)
 - [Cheatsheet de Git](#cheatsheet-de-git)
 - [Cheatsheet do Vim](#cheatsheet-do-vim)
+- [Cheatsheet do VS Code](#cheatsheet-do-vs-code)
 
 ## Cheatsheet de Bash
 
@@ -131,3 +132,35 @@
 | **Linha de Comando** | `:bnext`             | Vai para o próximo buffer.                                          |
 | **Linha de Comando** | `:bprev`             | Vai para o buffer anterior.                                         |
 
+## Cheatsheet do VS Code
+
+| Função                     | Atalho             | Descrição                                   |
+|----------------------------|--------------------|---------------------------------------------|
+| Command palette            | Ctrl+Shift+P, F1  | Mostra todos os comandos disponíveis.       |
+| Show files                 | Ctrl+P            | Mostra arquivos recentes e busca arquivos.  |
+| Toggle sidebar             | Ctrl+B            | Alterna a visibilidade da barra lateral.    |
+| Explorer                   | Ctrl+Shift+E      | Abre o explorador de arquivos.              |
+| Search                     | Ctrl+Shift+F      | Abre a barra de pesquisa global.            |
+| Debug                      | Ctrl+Shift+D      | Abre a barra de depuração.                  |
+| Extensions                 | Ctrl+Shift+X      | Abre o gerenciador de extensões.            |
+| Git (SCM)                  | Ctrl+Shift+G      | Abre o controle de código-fonte (Git).      |
+| Find                       | Ctrl+F            | Busca no arquivo atual.                     |
+| Replace                    | Ctrl+H            | Substitui texto no arquivo atual.           |
+| Find in files              | Ctrl+Shift+F      | Busca texto em todos os arquivos.           |
+| Replace in files           | Ctrl+Shift+H      | Substitui texto em todos os arquivos.       |
+| Toggle panel               | Ctrl+J            | Alterna a visibilidade do painel inferior.  |
+| Problems                   | Ctrl+Shift+M      | Exibe o painel de problemas.                |
+| Output                     | Ctrl+Shift+U      | Exibe o painel de saída.                    |
+| Debug console              | Ctrl+Shift+Y      | Abre o console de depuração.                |
+| Terminal                   | Ctrl+`            | Abre o terminal integrado.                  |
+| Zen mode                   | Ctrl+K Z          | Ativa/desativa o modo Zen (foco total).     |
+| Close unmodified           | Ctrl+K Ctrl+U     | Fecha arquivos não modificados.             |
+| Close all                  | Ctrl+K Ctrl+W     | Fecha todos os arquivos abertos.            |
+| Start                      | F5                | Inicia a execução ou depuração.             |
+| Stop                       | Shift+F5          | Interrompe a execução ou depuração.         |
+| Restart                    | Ctrl+Shift+F5     | Reinicia o processo de depuração.           |
+| Start without debugging    | Ctrl+F5           | Inicia o programa sem depuração.            |
+| Toggle breakpoint          | F9                | Ativa/desativa um ponto de interrupção.     |
+| Step over                  | F10               | Executa a próxima linha (não entra em funções). |
+| Step into                  | F11               | Entra na próxima função a ser executada.    |
+| Step out                   | Shift+F11         | Sai da função atual e retorna à chamada.    |
