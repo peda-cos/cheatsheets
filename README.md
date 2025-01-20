@@ -98,39 +98,39 @@
 
 ## Cheatsheet do Vim
 
-| **Modo**          | **Comando**             | **Descrição**                                                        |
+| Modo          | Comando             | Descrição                                                        |
 |-------------------|-------------------------|----------------------------------------------------------------------|
-| **Navegação**     | `h`, `j`, `k`, `l`      | Movem o cursor para a esquerda, baixo, cima e direita, respectivamente. |
-| **Normal**        | `i`                     | Entra no modo de inserção à esquerda do cursor.                     |
-| **Normal**        | `a`                     | Entra no modo de inserção à direita do cursor.                      |
-| **Normal**        | `o`                     | Abre uma nova linha abaixo da linha atual e entra no modo de inserção. |
-| **Normal**        | `:w`                    | Salva o arquivo atual.                                              |
-| **Normal**        | `:q`                    | Sai do Vim.                                                         |
-| **Normal**        | `:wq`                   | Salva e sai do Vim.                                                 |
-| **Normal**        | `dd`                    | Apaga a linha atual e copia para o clipboard.                       |
-| **Normal**        | `yy`                    | Copia a linha atual para o clipboard.                               |
-| **Normal**        | `p`                     | Cola o conteúdo do clipboard abaixo do cursor.                      |
-| **Normal**        | `u`                     | Desfaz a última ação.                                               |
-| **Normal**        | `Ctrl + r`              | Refaz a última ação desfeita.                                       |
-| **Normal**        | `x`                     | Apaga o caractere sob o cursor.                                     |
-| **Normal**        | `/texto`                | Procura por "texto" no arquivo.                                     |
-| **Normal**        | `n`                     | Vai para a próxima ocorrência do texto procurado.                   |
-| **Normal**        | `:%s/antigo/novo/g`     | Substitui todas as ocorrências de "antigo" por "novo" no arquivo.   |
-| **Inserção**      | `Esc`                   | Sai do modo de inserção e volta ao modo normal.                     |
-| **Visual**        | `v`                     | Entra no modo visual, permitindo seleção de texto.                  |
-| **Visual**        | `V`                     | Entra no modo visual linha, selecionando linhas inteiras.           |
-| **Visual**        | `y`                     | Copia o texto selecionado para o clipboard.                         |
-| **Visual**        | `d`                     | Apaga o texto selecionado.                                          |
-| **Visual**        | `>`                     | Indenta o texto selecionado à direita.                              |
-| **Visual**        | `<`                     | Indenta o texto selecionado à esquerda.                             |
-| **Linha de Comando** | `:help comando`      | Exibe ajuda sobre o comando especificado.                            |
-| **Linha de Comando** | `:e nome_do_arquivo`  | Abre o arquivo especificado.                                        |
-| **Linha de Comando** | `:split nome_do_arquivo` | Divide a janela e abre um novo arquivo na parte dividida.           |
-| **Linha de Comando** | `:vsplit nome_do_arquivo` | Divide a janela verticalmente e abre um novo arquivo.               |
-| **Linha de Comando** | `:tabnew nome_do_arquivo` | Abre um novo arquivo em uma nova aba.                               |
-| **Linha de Comando** | `:buffers`           | Lista todos os buffers abertos.                                     |
-| **Linha de Comando** | `:bnext`             | Vai para o próximo buffer.                                          |
-| **Linha de Comando** | `:bprev`             | Vai para o buffer anterior.                                         |
+| Navegação     | `h`, `j`, `k`, `l`      | Movem o cursor para a esquerda, baixo, cima e direita, respectivamente. |
+| Normal        | `i`                     | Entra no modo de inserção à esquerda do cursor.                     |
+| Normal        | `a`                     | Entra no modo de inserção à direita do cursor.                      |
+| Normal        | `o`                     | Abre uma nova linha abaixo da linha atual e entra no modo de inserção. |
+| Normal        | `:w`                    | Salva o arquivo atual.                                              |
+| Normal        | `:q`                    | Sai do Vim.                                                         |
+| Normal        | `:wq`                   | Salva e sai do Vim.                                                 |
+| Normal        | `dd`                    | Apaga a linha atual e copia para o clipboard.                       |
+| Normal        | `yy`                    | Copia a linha atual para o clipboard.                               |
+| Normal        | `p`                     | Cola o conteúdo do clipboard abaixo do cursor.                      |
+| Normal        | `u`                     | Desfaz a última ação.                                               |
+| Normal        | `Ctrl + r`              | Refaz a última ação desfeita.                                       |
+| Normal        | `x`                     | Apaga o caractere sob o cursor.                                     |
+| Normal        | `/texto`                | Procura por "texto" no arquivo.                                     |
+| Normal        | `n`                     | Vai para a próxima ocorrência do texto procurado.                   |
+| Normal        | `:%s/antigo/novo/g`     | Substitui todas as ocorrências de "antigo" por "novo" no arquivo.   |
+| Inserção      | `Esc`                   | Sai do modo de inserção e volta ao modo normal.                     |
+| Visual        | `v`                     | Entra no modo visual, permitindo seleção de texto.                  |
+| Visual        | `V`                     | Entra no modo visual linha, selecionando linhas inteiras.           |
+| Visual        | `y`                     | Copia o texto selecionado para o clipboard.                         |
+| Visual        | `d`                     | Apaga o texto selecionado.                                          |
+| Visual        | `>`                     | Indenta o texto selecionado à direita.                              |
+| Visual        | `<`                     | Indenta o texto selecionado à esquerda.                             |
+| Linha de Comando | `:help comando`      | Exibe ajuda sobre o comando especificado.                            |
+| Linha de Comando | `:e nome_do_arquivo`  | Abre o arquivo especificado.                                        |
+| Linha de Comando | `:split nome_do_arquivo` | Divide a janela e abre um novo arquivo na parte dividida.           |
+| Linha de Comando | `:vsplit nome_do_arquivo` | Divide a janela verticalmente e abre um novo arquivo.               |
+| Linha de Comando | `:tabnew nome_do_arquivo` | Abre um novo arquivo em uma nova aba.                               |
+| Linha de Comando | `:buffers`           | Lista todos os buffers abertos.                                     |
+| Linha de Comando | `:bnext`             | Vai para o próximo buffer.                                          |
+| Linha de Comando | `:bprev`             | Vai para o buffer anterior.                                         |
 
 ## Cheatsheet do VS Code
 
