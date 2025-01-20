@@ -140,7 +140,6 @@
 | Show files                 | Ctrl+P            | Mostra arquivos recentes e busca arquivos.  |
 | Toggle sidebar             | Ctrl+B            | Alterna a visibilidade da barra lateral.    |
 | Explorer                   | Ctrl+Shift+E      | Abre o explorador de arquivos.              |
-| Search                     | Ctrl+Shift+F      | Abre a barra de pesquisa global.            |
 | Debug                      | Ctrl+Shift+D      | Abre a barra de depuração.                  |
 | Extensions                 | Ctrl+Shift+X      | Abre o gerenciador de extensões.            |
 | Git (SCM)                  | Ctrl+Shift+G      | Abre o controle de código-fonte (Git).      |
